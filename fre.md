@@ -7,6 +7,7 @@
 *noun*
 
     stranger; guest
+    the only word output from `cat dict/words | grep md$`
 
 #on this blog
 *2015/05/07* - meta, first, explain
