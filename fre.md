@@ -250,7 +250,7 @@ dog.trigger 'bark'
 
 Because they already get plenty of vitamin debug.
 
-# The Biginning
+#the biginning
 *2014/06/14* - code, memory
 
 ...Over the next two days I am going to learn how to use jQuery and AJAX so that my web apps can actually store and remember data.
