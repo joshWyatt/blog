@@ -56,11 +56,11 @@ Let's put the debugger's question into practice with a very simple, non-coding b
 
 ##A fable for the debugger
 
-####The program
+###The program
 
 You have 4 friends: Avon, Brian, Carl, Donnel. You've made plans with them that you're going to meet Avon alone and and tell him something. Then he's going to go find Brian and tell him what you said, and then Brian's going to tell it to Carl, and then Carl's going to tell it to Donnel, and then Donnel is going to write it down and mail it to you. The plan is that you should have a letter arriving within 2 weeks, from Donnel, that has what you originally told Avon. So, you tell Avon "My favorite month is May" and get to waiting.
 
-####Result #1
+###Result #1
 
 2 weeks later, you still haven't received a letter in the mail. Your program is not behaving in the way you expected...you've got a bug.
 
@@ -72,7 +72,7 @@ Time to ask the debugger's question: You assumed you would get a letter with wha
 
 So you make sure Donnel knows where to mail the letter to, and you try the whole thing again, starting off by meeting Avon and telling him "My favorite month is May".
 
-####Result #2
+###Result #2
 
 10 days later a letter arrives in the mail from Donnel! You open the envelope and it's empty!
 
@@ -80,7 +80,7 @@ So you make sure Donnel knows where to mail the letter to, and you try the whole
 
 You meet up with Avon and tell him again "My favorite month is May".
 
-####Result #3
+###Result #3
 
 12 days later a letter arrives in the mail from Donnel! You open the envelope to find a folded piece of paper that reads "Ya moms got giant ears!"
 
@@ -90,7 +90,7 @@ First you go to Donnel and ask him why he wrote that. He says that's what Carl t
 
 Okay, well, at least you figured out this bug. You cut off Brian from saying anything else and get his word that he will only tell Carl what he hears from from Avon. Then you meet with Avon and tell him "My favorite month is May."
 
-####Result #4
+###Result #4
 
 10 days later a letter arrives in the mail from Donnel! You open the envelope to find a folded piece of paper that reads "Ya moms got giant ears!"
 
@@ -102,7 +102,7 @@ You of course go straight to Avon and ask if he told Brian to say "Ya moms got g
 
 You can hardly believe it, and you're not sure what to do about it, so you don't change anything. Avon is right here, so you decide to kick off the program once again and you tell him, "My favorite month is May."
 
-####Result #5
+###Result #5
 
 13 days later you get a letter in the mail from Donnel! You open the envelope to find a folded piece of paper that reads "Ya moms got giant ears!"
 
