@@ -1,4 +1,4 @@
-###[fremd](http://en.wiktionary.org/wiki/fremd)
+#[fremd](http://en.wiktionary.org/wiki/fremd)
 
 *adj*
 
@@ -8,7 +8,7 @@
 
     stranger; guest
 
-#On This Blog
+#on this blog
 *2015/05/07* - meta, first, explain
 
 More like a log really, just write as I go.
