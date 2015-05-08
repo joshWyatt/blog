@@ -206,7 +206,7 @@ Oh yeah, one more thing, if you come you will not have another life for 3 months
 Good Day!
 
 #a coffeeScript event system
-*2014/06/25* javascript, events, code, coffeescript
+*2014/06/25* - javascript, events, code, coffeescript
 
 I had the pleasure of attending a lecture at [Hack Reactor](http://www.hackreactor.com) given by [Phillip Alexander](http://phillipalexander.io) on the topic of Event Systems. During the lecture he demonstrated the implementation of an event system by way of an object mixin, using only native JavaScript.
 
@@ -246,7 +246,7 @@ dog.trigger 'bark'
 ```
 
 #why don't hackers ever go outside?
-*2014/06/21* code debugging
+*2014/06/21* - code debugging
 
 Because they already get plenty of vitamin debug.
 
