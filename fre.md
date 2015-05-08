@@ -25,7 +25,7 @@ We might say our code has a bug, and it turns out that it has lots of bugs. We m
 
 'Bug', in my mind, is just about the perfect thing we could call it when our code doesn't behave in the way that we expect. Usually (although certainly not always), it's just the tiniest little thing in our code that needs changing to make it work again...just a tiny little bug we need to find. There are so many different kinds of bugs. Oftentimes when you go looking for a bug, you end up finding a whole lot of them. People also tend to be quite annoyed by bugs, but...
 
-##Don't bug out on bugs
+##don't bug out on bugs
 
 Here's a few facts:
 
@@ -40,13 +40,13 @@ Considering these statements logically leads me to the following conclusion: we 
 
 Becoming an incredible debugger goes hand in hand with being an incredible coder. Debugging will teach you how to look at code and quickly learn what is going on. Debugging will teach you how to how to ask the right questions. Debugging will help you build kinship with all your other coder friends who get to debug all the time too. Debugging will make you a better debugger, and did I mention, you'll always be debugging.
 
-##The mystical truth about bugs
+##the mystical truth about bugs
 
 There are no bugs in your code...the bug is always in your understanding of the code.
 
 Don't get me wrong, you have to find the part of the code that needs some changing, to be sure, but I've seen so many intrepid coders get angry with their code, get angry with their computers, blame this thing and that thing and talk about how stupid this or that part of the language they're working with is, or how dumb a certain rule is. Well, computers and programs and all that might be very fast, but they are very stupid indeed. So stupid that all they ever do is exactly what you tell them to. Therefore, when debugging, realize that you have all the power, all the responsibility, and all the control. And besides, since debugging is going to make you such a better coder, you might as well learn to love it.
 
-##"The Debugger's Question"
+##"the debugger's question"
 
 There's actually nothing mystical about debugging, all you have to do is ask, and answer, the "debugger's question", which is more like a statement and a question:
 
@@ -54,13 +54,13 @@ There's actually nothing mystical about debugging, all you have to do is ask, an
 
 Let's put the debugger's question into practice with a very simple, non-coding based example.
 
-##A fable for the debugger
+##a fable for the debugger
 
-###The program
+###the program
 
 You have 4 friends: Avon, Brian, Carl, Donnel. You've made plans with them that you're going to meet Avon alone and and tell him something. Then he's going to go find Brian and tell him what you said, and then Brian's going to tell it to Carl, and then Carl's going to tell it to Donnel, and then Donnel is going to write it down and mail it to you. The plan is that you should have a letter arriving within 2 weeks, from Donnel, that has what you originally told Avon. So, you tell Avon "My favorite month is May" and get to waiting.
 
-###Result #1
+###result #1
 
 2 weeks later, you still haven't received a letter in the mail. Your program is not behaving in the way you expected...you've got a bug.
 
@@ -72,7 +72,7 @@ Time to ask the debugger's question: You assumed you would get a letter with wha
 
 So you make sure Donnel knows where to mail the letter to, and you try the whole thing again, starting off by meeting Avon and telling him "My favorite month is May".
 
-###Result #2
+###result #2
 
 10 days later a letter arrives in the mail from Donnel! You open the envelope and it's empty!
 
@@ -80,7 +80,7 @@ So you make sure Donnel knows where to mail the letter to, and you try the whole
 
 You meet up with Avon and tell him again "My favorite month is May".
 
-###Result #3
+###result #3
 
 12 days later a letter arrives in the mail from Donnel! You open the envelope to find a folded piece of paper that reads "Ya moms got giant ears!"
 
@@ -90,7 +90,7 @@ First you go to Donnel and ask him why he wrote that. He says that's what Carl t
 
 Okay, well, at least you figured out this bug. You cut off Brian from saying anything else and get his word that he will only tell Carl what he hears from from Avon. Then you meet with Avon and tell him "My favorite month is May."
 
-###Result #4
+###result #4
 
 10 days later a letter arrives in the mail from Donnel! You open the envelope to find a folded piece of paper that reads "Ya moms got giant ears!"
 
@@ -102,7 +102,7 @@ You of course go straight to Avon and ask if he told Brian to say "Ya moms got g
 
 You can hardly believe it, and you're not sure what to do about it, so you don't change anything. Avon is right here, so you decide to kick off the program once again and you tell him, "My favorite month is May."
 
-###Result #5
+###result #5
 
 13 days later you get a letter in the mail from Donnel! You open the envelope to find a folded piece of paper that reads "Ya moms got giant ears!"
 
@@ -132,7 +132,7 @@ I had the pleasure of learning a new tool in my epic quest to hunt it: [git bise
 
 Nervous yet? No worries!! We're going to dig into some really easy to learn strategies for presenting your best and most capable self during the technical interview.
 
-##Not Your Parents
+##not your parents
 
 Humans tend to operate on memory. This is well-established scientifically, and has major implications (believe or not) for the interview process. Answer me this:
 
@@ -147,34 +147,34 @@ Recognize that all the anxiety you feel going into an interview is in fact just 
 You will get better at keeping yourself calm.
 
 
-##Enter Like You Were Meant To Be Here
+##enter like you were meant to be here
 
 There will come a time to defend your position during the technical part of the interview. When you first meet your interviewer, be like an award winning actor, playing the role of knowing that they are exactly where they need to be. Everyone is happy that you've arrived.
 
-##It's Just Your Friend
+##it's just your friend
 
 Think about that time on the train, or in the bar with a colleague when you were delighted to talk about an exciting new coding challenge. This is all you're doing in the interview.
 
-##Draw
+##draw
 
 As soon as you start talking code you should start drawing on the white board. Assume your interviewer is going to take a picture and show it to someone else in expectation that they would be able to take some really good guesses at what you're talking about just by what is on the board. Put squares or circles around your writing, it's easier to read, and make sure if you're using data structures that you draw them in a cannonical way.
 
-##Be Concise and Technical
+##be concise and technical
 
 Try to reduce the amount of time you spend speaking about something by using the correct and precise technical jargon. Stay on topic and don't get distracted. An interviewer will ask you to defend yourself or go deeper into a topic if the need arises.
 
-##Make Eye Contact
+##make eye contact
 
 And slow your voice down while you're at it. Remember you're just hanging out with your friend. Work on the feeling between you and your interviewer. Remember, they want to see your technical chops and find out if they want to spend most days hanging out with you.
 
-##Don't Go Silent
+##don't go silent
 
 If you don't know what to do next talk out load through your thought process and be gracious and clear when you recognize you've started to consider a wrong answer. Don't be afraid to ask for clarification and always move towards simulating your thought process on the white board. Sometimes the answer will occur to you after you've started drawing.
 
-##Say Thanks
+##say thanks
 The interviewer's time is valuable, show appreciation.
 
-##Practice
+##practice
 The more you practice the better you'll get.
 Best!
 
