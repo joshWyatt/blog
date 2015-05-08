@@ -259,3 +259,14 @@ Everything I've programmed so far has the memory of a fish. Now all my apps will
 
 > "...And I will make you fishers of Mem-ory"
 
+#the secret to getting into hack reactor
+*2015/06/30* - code, hack reactor, video
+
+tl;dr: Get to Hacking!
+
+I set up my laptop to take a photo every 30 minutes during some of the time I was preparing for [Hack Reactor](https://hackreactor.com)....I never really knew when the snapshot was coming.
+
+If you want to get into Hack Reactor, I recommend spending a lot of time in front of your computer learning the material they recommend, and whatever else you need to learn to do that, like so:
+
+<iframe width="420" height="315" src="//www.youtube.com/embed/DgqtOs2hF1o" frameborder="0" allowfullscreen></iframe>
+
