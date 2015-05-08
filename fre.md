@@ -2,11 +2,11 @@
 
 *adj*
 
-    1) Strange; foreign; alien; outlandish; far off or away; distant.
+    Strange; foreign; alien; outlandish; far off or away; distant.
 
 *noun*
 
-    1) stranger; guest
+    stranger; guest
 
 #On This Blog
 *2015/05/07* - meta, first, explain
