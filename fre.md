@@ -17,6 +17,7 @@ More like a log really, just write as I go.
 Everything will be in this one file and it will be searchable.
 
 #bugs...so many bugs...
+*2014/10/03* - code, bugs
 
 Just in case you haven't heard what a bug is, here's the low down: whenever our code doesn't behave the way we are expecting it to, it's a bug. If we try to run our code and it doesn't run at all, it's a bug. If we run it and we get some errors either before during or after our code has run, it's a bug. If it runs but doesn't give us what we want, it's a bug.
 
